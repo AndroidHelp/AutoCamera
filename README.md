@@ -27,6 +27,6 @@ dependencies {
    ```
 ### Screen shots
 
-                               ![Alt text](/device-2017-06-07-173523.png?raw=true "Primary Camera")
+![Alt text](/device-2017-06-07-173523.png?raw=true "Primary Camera")
 
-                               ![Alt text](/device-2017-06-07-173539.png?raw=true "Front Camera")
+![Alt text](/device-2017-06-07-173539.png?raw=true "Front Camera")
