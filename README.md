@@ -2,23 +2,23 @@
 
 Take Picture from Custom camera using Camera API2.
 
-# Usage
+ Usage
 
-# Gradle
+ Gradle
 
-compile 'com.katariya.autocameralib:AutoCamera:0.0.1'
+   compile 'com.katariya.autocameralib:AutoCamera:0.0.1'
 
-# Maven
+ Maven
 
-<dependency>
-  <groupId>com.katariya.autocameralib</groupId>
-  <artifactId>AutoCamera</artifactId>
-  <version>0.0.1</version>
-  <type>pom</type>
-</dependency>
+   <dependency>
+     <groupId>com.katariya.autocameralib</groupId>
+     <artifactId>AutoCamera</artifactId>
+     <version>0.0.1</version>
+     <type>pom</type>
+   </dependency>
 
-# Ivy
+ Ivy
 
-<dependency org='com.katariya.autocameralib' name='AutoCamera' rev='0.0.1'>
-  <artifact name='AutoCamera' ext='pom' ></artifact>
-</dependency>
+   <dependency org='com.katariya.autocameralib' name='AutoCamera' rev='0.0.1'>
+     <artifact name='AutoCamera' ext='pom' ></artifact>
+   </dependency>
